@@ -1,6 +1,6 @@
 <html>
 <body>
-<h3>Addition</h3>
+<h1>Calculate This</h1>
 <form method="get">
 First Number: <input type="number" name="first"><br>
 Second Number: <input type="number" name="second"><br>
